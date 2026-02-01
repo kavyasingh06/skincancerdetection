@@ -133,5 +133,5 @@ This project is intended for educational and research purposes only and should n
 👩‍💻 Author
 Kavya Singh
 AI / ML Engineer
-🔗 GitHub: https://github.com/your-username
+🔗 GitHub: https://github.com/kavyasingh06
 
